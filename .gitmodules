@@ -5,6 +5,9 @@
 [submodule "palaeoverse"]
 	path = palaeoverse
 	url = https://github.com/palaeoverse/palaeoverse
+[submodule "rmacrostrat"]
+	path = rmacrostrat
+	url = https://github.com/palaeoverse/rmacrostrat
 [submodule "rphylopic"]
 	path = rphylopic
 	url = https://github.com/palaeoverse/rphylopic
