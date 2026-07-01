@@ -11,3 +11,6 @@
 [submodule "rphylopic"]
 	path = rphylopic
 	url = https://github.com/palaeoverse/rphylopic
+[submodule "sepkoski"]
+	path = sepkoski
+	url = https://github.com/palaeoverse/sepkoski
